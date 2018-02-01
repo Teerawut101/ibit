@@ -1,7 +1,7 @@
 {
     "name": "ibit",
     "version": "0.4.1",
-    "description": "A BitBot package for pxt-microbit",
+    "description": "A iBit package for pxt-microbit",
     "license": "Apache",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/no/bitbot-strings.json"
+        "_locales/no/ibit-strings.json"
     ],
     "testFiles": [
         "tests.ts"
